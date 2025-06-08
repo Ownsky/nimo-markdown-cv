@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby
 
 RUN bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 

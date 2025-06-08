@@ -157,7 +157,7 @@ h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
   /* font-size: 50pt; */
-  font-size: 600%;
+  font-size: 400%;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
@@ -208,13 +208,14 @@ code {
 li:before {
   content: "-";
   position: relative;
-  left: -0.5em;
+  left: -0.7em;
 }
 
 li {
   /*second line indent*/
-  padding-left: 2.25em;
-  text-indent: -1.25em;
+  /* padding-left: 2.25em;
+  text-indent: -1.25em; */
+  padding-left: 1.2em;
   /*color: #777;*/
 }
 
@@ -222,13 +223,23 @@ li {
   text-align: center;
   position: relative;
   font-weight: lighter;
-  color: #ccc;
+  color: #777;
   /* font-family: Menlo,monospace,sans-serif; */
-  font-size: 80%;
+  font-size: 90%;
 }
 
 #contact-info a {
   text-decoration: none;
+}
+
+#cv-photo {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#cv-photo-img {
+  height: 100pt;
 }
 
 a {
