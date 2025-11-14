@@ -58,7 +58,7 @@ _技能点：内核开发、C语言、NVM优化、文件系统设计、一致性
 
 ## 专业经历
 
-### **阿里云** `2025.5 - `
+### **阿里云** `2025.5 - 2025.8`
 ```
 面向高吞吐场景的下一代互联网存储设施研发
 ```
@@ -79,9 +79,9 @@ _In Proceedings of the 23rd USENIX Conference on File and Storage Technologies (
 [[slides](https://www.usenix.org/system/files/fast25_slides-wang.pdf)]
 <!-- [[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)] -->
 
-### **Boosting Disk File Systems with a Transparent NVM Write-ahead Log**
+### **A Transparent NVM Acceleration Framework for Disk File Systems**
 **Guoyu Wang**, Juncheng Hu, Can Zhou, Haoyang Wei, Chenju Pei, Puyi He, Tengfei Li, and Xilong Che<br>
-_ACM Transactions on Storage (TOS) (CCF A) 在投._<br>
+_ACM Transactions on Storage (TOS) (CCF A)._<br>
 
 ### [**StorStack: A full-stack design for in-storage file systems**](https://www.sciencedirect.com/science/article/pii/S1383762125000207)
 
@@ -106,7 +106,7 @@ _Journal of Systems Architecture (CCF B)._<br>
 
 **英语** CET-6 可流利交流 <br>
 
-## Geek Moment
+<!-- ## Geek Moment
 ### **实验室网站建设** `2021`
 _技能点：前端、HTML、CSS_
 
@@ -115,7 +115,7 @@ _技能点：前端、HTML、CSS_
 ### **智能台灯** `2016`
 _技能点：嵌入式、模电/数电、Android_
 
-基于 Arduino/ESP8266 开发了自用的可联网调光调色的桌面台灯，包括电路设计、制作和控制应用程序开发。
+基于 Arduino/ESP8266 开发了自用的可联网调光调色的桌面台灯，包括电路设计、制作和控制应用程序开发。 -->
 
 <!-- ### Footer
 
